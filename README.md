@@ -1,7 +1,7 @@
 # PivNet Versions
 Run this script to create an xlsx spreadsheet of all dependencies for all PivNet products you have access to. You'll need an API token to run this, which you can find on your "Edit Profile" page on PivNet.
 
-## Instrustionc
+## Instrustions
 Just run `python versions.py` from the directory.
 
 You may need to `pip install` one or more of the following dependencies.
